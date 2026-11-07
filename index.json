@@ -1,0 +1,11 @@
+{
+  "org": "pysal",
+  "repo": "tobler",
+  "versions": [
+    {
+      "commit": "8b456ebffd01204936c90db2eb30e8164936f888",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:41:46.090468+00:00"
+    }
+  ]
+}
