@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pysal/tobler/commit/8b456ebffd01204936c90db2eb30e8164936f888",
       "git:hexsha": "8b456ebffd01204936c90db2eb30e8164936f888",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pysal/tobler/commit/8c3bba644cbc17a786069d494e6d4cabdf75098f",
